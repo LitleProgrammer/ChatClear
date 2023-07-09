@@ -1,7 +1,7 @@
 name: ChatClear
 version: '${project.version}'
 main: de.littleprogrammer.chatclear.Main
-api-version: '1.20'
+api-version: '1.16'
 authors: [LittleProgrammer]
 description: A simple chat clearing plugin
 website: lpmc.me

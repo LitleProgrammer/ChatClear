@@ -10,11 +10,11 @@ public final class Main extends JavaPlugin {
         // Plugin startup logic
 
         System.out.println("___________________________________");
-        System.out.println("   ChatClear by    ");
-        System.out.println("   LittleProgrammer");
-        System.out.println("   Discord:         ");
-        System.out.println("   https://discord.gg/ssfd7zKSrA");
-        System.out.println("___________________________________");
+        System.out.println("         ChatClear by    ");
+        System.out.println("       LittleProgrammer");
+        System.out.println("           Discord:         ");
+        System.out.println(" https://discord.gg/ssfd7zKSrA");
+        System.out.println("¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯");
 
         //Commands
         getCommand("clearChat").setExecutor(new ChatClearCommand());
